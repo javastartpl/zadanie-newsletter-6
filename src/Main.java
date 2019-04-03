@@ -5,6 +5,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String text = scanner.nextLine();
 
-        System.out.format(text);
+        System.out.format("%s", text);
     }
 }
